@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  event: MyString
+  likes: 1
+  comments: 1
+
+two:
+  event: MyString
+  likes: 1
+  comments: 1
