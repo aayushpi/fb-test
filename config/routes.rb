@@ -5,6 +5,7 @@ FbTest::Application.routes.draw do
   match 'auth/failure', to: redirect('/')
 
   resources :activities
+  resources :users
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
